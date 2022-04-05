@@ -34,8 +34,8 @@ It's easy to use and fully dynamic.
     - [Response Filter](#Response-filter)
 
 ## Requirements
-- PHP 7.2+, 8.0 (new version)
-- Laravel 5.8+,6.x,7.x,8(prefer-stable)
+- PHP 7.2+, 8.0, 8.1 (new version)
+- Laravel 5.8+,6.x,7.x,8.x,9.x(prefer-stable)
 
 ## :microphone: Introduction
 
@@ -119,7 +119,7 @@ With this Eloquent filter implementation, you can use all the documented filters
 
 1- Run this Composer command to install the latest version
 
-      $ composer require mehdi-fathi/eloquent-filter
+      $ composer require coliving/eloquent-filter
       
 - **Note**  for Laravel versions older than 5.8 you should install version 2.2.5 
 
